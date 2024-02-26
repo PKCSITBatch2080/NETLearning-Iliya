@@ -1,0 +1,15 @@
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\bin\Debug\net8.0\greeter.exe
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\bin\Debug\net8.0\greeter.deps.json
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\bin\Debug\net8.0\greeter.runtimeconfig.json
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\bin\Debug\net8.0\greeter.dll
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\bin\Debug\net8.0\greeter.pdb
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\obj\Debug\net8.0\greeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\obj\Debug\net8.0\greeter.AssemblyInfoInputs.cache
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\obj\Debug\net8.0\greeter.AssemblyInfo.cs
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\obj\Debug\net8.0\greeter.csproj.CoreCompileInputs.cache
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\obj\Debug\net8.0\greeter.sourcelink.json
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\obj\Debug\net8.0\greeter.dll
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\obj\Debug\net8.0\refint\greeter.dll
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\obj\Debug\net8.0\greeter.pdb
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\obj\Debug\net8.0\greeter.genruntimeconfig.cache
+C:\Users\Jaid\Desktop\iliya\DOTnet GIT\NETLearning-Iliya\Assignment1\greeter\obj\Debug\net8.0\ref\greeter.dll
