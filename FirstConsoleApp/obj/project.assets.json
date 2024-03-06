@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jaid\\Desktop\\iliya\\DOTnet GIT\\NETLearning-Iliya\\FirstConsoleApp\\FirstConsoleApp\\FirstConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Jaid\\Desktop\\iliya\\DOTnet GIT\\NETLearning-Iliya\\FirstConsoleApp\\FirstConsoleApp.csproj",
       "projectName": "FirstConsoleApp",
-      "projectPath": "C:\\Users\\Jaid\\Desktop\\iliya\\DOTnet GIT\\NETLearning-Iliya\\FirstConsoleApp\\FirstConsoleApp\\FirstConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Jaid\\Desktop\\iliya\\DOTnet GIT\\NETLearning-Iliya\\FirstConsoleApp\\FirstConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Jaid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jaid\\Desktop\\iliya\\DOTnet GIT\\NETLearning-Iliya\\FirstConsoleApp\\FirstConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Jaid\\Desktop\\iliya\\DOTnet GIT\\NETLearning-Iliya\\FirstConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jaid\\AppData\\Roaming\\NuGet\\NuGet.Config"

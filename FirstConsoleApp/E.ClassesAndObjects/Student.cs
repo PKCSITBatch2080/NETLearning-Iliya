@@ -1,15 +1,12 @@
 using System;
 
 class Student
-{
-    
-
+{    
     // Default Constructor
     public Student()
     {
 
     }
-
     // Parameterized constructor
     public Student(string n, byte rn)
     {
@@ -17,7 +14,15 @@ class Student
         RollNumber = rn;
     }
 
-    string name;
+    public Student(string n, byte rn, DateTime dob)
+    {
+        name = n;
+        RollNumber = rn;
+        Dob = dob;
+    }
+    
+    public string name;
+    public static string collegeName;
     byte rollNumber;
     public byte RollNumber
     {
@@ -33,13 +38,10 @@ class Student
             }
         }
     }
+    public string Address { get; set; }      //Auto implemented property
+    public DateTime Dob { get; }
 
-    public string Address {get; set; }      //Auto implemented property
-    public DateTime Dob{get;}
-
-   
-
-    public virtual void DisplayInfo() 
+    public virtual void DisplayInfo()
     {
         Console.WriteLine($"Student Name: {name}");
         Console.WriteLine($"Student Roll Number: {rollNumber}");

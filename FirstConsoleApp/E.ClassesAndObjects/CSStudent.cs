@@ -1,11 +1,14 @@
-//using System.Reflection.Metadata.Ecma335;//single inhertiance
-class CSStudent : Student, IGradeable // Multiple level inheritance
+// Single Inheritance
+using System.Reflection.Metadata.Ecma335;
+
+class CSStudent : Student, IGradeable   // Multiple Inheritance
 {
-    public CSStudent(string name, byte rn, string pTitle)
-    : base(name, rn)
+    public CSStudent(string name, byte rn, string pTitle) 
+        : base(name, rn)
     {
-        ProjectTitle= pTitle;
+        ProjectTitle = pTitle;
     }
+
     public string ProjectTitle { get; set; }
     public string InternWork { get; set; }
 
