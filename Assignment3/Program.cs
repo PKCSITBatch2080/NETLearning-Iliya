@@ -9,7 +9,7 @@ class Program
         InflationAnalysis analysis = new InflationAnalysis();
         analysis.ReadData(filePath);
         //Console.WriteLine(filePath);
-        //Console.ReadKey();
+        
         Console.WriteLine("Inflation rates for countries for the year 2021:");
         var Data = analysis.GetInflationRatesForYear(2021);
         foreach (var inflation in Data)
